@@ -1,0 +1,76 @@
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form1.resources
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Properties.Resources.resources
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\355037\TesteTXT\TesteTXT\bin\Debug\TesteTXT.exe
+C:\Users\355037\TesteTXT\TesteTXT\bin\Debug\TesteTXT.pdb
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.exe
+C:\Users\355037\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.pdb
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.exe
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.pdb
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form1.resources
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Properties.Resources.resources
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Neotech\TesteTXT\TesteTXT\bin\Debug\TesteTXT.exe
+D:\Neotech\TesteTXT\TesteTXT\bin\Debug\TesteTXT.pdb
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.exe
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.pdb
+E:\Neotech\TesteTXT\TesteTXT\bin\Debug\TesteTXT.exe
+E:\Neotech\TesteTXT\TesteTXT\bin\Debug\TesteTXT.pdb
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form1.resources
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Properties.Resources.resources
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Neotech\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form1.resources
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Properties.Resources.resources
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form2.resources
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form3.resources
+C:\Projetos\Software\TesteTXT\TesteTXT\bin\Debug\Neotech Solution.exe.manifest
+C:\Projetos\Software\TesteTXT\TesteTXT\bin\Debug\Neotech Solution.application
+C:\Projetos\Software\TesteTXT\TesteTXT\bin\Debug\Neotech Solution.exe
+C:\Projetos\Software\TesteTXT\TesteTXT\bin\Debug\Neotech Solution.pdb
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\Neotech Solution.exe.manifest
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\Neotech Solution.application
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\Neotech Solution.exe
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\Neotech Solution.pdb
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form4.resources
+C:\Projetos\Software\TesteTXT\TesteTXT\obj\x86\Debug\TesteTXT.Form5.resources
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.exe
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.pdb
+C:\Projetos\Software\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.exe.manifest
+C:\Projetos\Software\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.application
+C:\Projetos\Software\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.exe
+C:\Projetos\Software\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.pdb
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form1.resources
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form2.resources
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form3.resources
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form4.resources
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Properties.Resources.resources
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.exe.manifest
+C:\Projetos\Software\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.application
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.exe
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.pdb
+Z:\Projetos Visual\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.exe.manifest
+Z:\Projetos Visual\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.application
+Z:\Projetos Visual\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.exe
+Z:\Projetos Visual\Neotech Solution\TesteTXT\bin\Debug\Neotech Solution.pdb
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\ResolveAssemblyReference.cache
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form1.resources
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form2.resources
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form3.resources
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Form4.resources
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\TesteTXT.Properties.Resources.resources
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\GenerateResource.read.1.tlog
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\GenerateResource.write.1.tlog
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.exe.manifest
+Z:\Projetos Visual\Neotech Solution\TesteTXT\obj\x86\Debug\Neotech Solution.application
