@@ -18,4 +18,3 @@ C#.
 ### Contact ###
 
 * [vinicius.silva.arruda@gmail.com](mailto:vinicius.silva.arruda@gmail.com)
-
